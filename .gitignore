@@ -6,6 +6,5 @@ __pycache__/
 testenv/
 chroma_db/
 uploads/
-*.pkl
 *.log
 .DS_Store
